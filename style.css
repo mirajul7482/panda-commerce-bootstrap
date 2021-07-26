@@ -1,0 +1,11 @@
+.btn-background{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    color: white;
+    padding: 8px 25px;
+}
+.background{
+    background-color: #FCEBE9;
+}
+.catagoris img{
+    width: 100px;
+}
